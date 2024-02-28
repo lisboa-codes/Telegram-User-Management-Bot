@@ -1,8 +1,12 @@
 
 
 # Telegram User Management Bot :robot:
-
 Um bot do Telegram para registro e gerenciamento de usuários.
+
+<img src="https://github.com/lisboa-codes/Telegram-User-Management-Bot/assets/83194016/a41db063-faa3-4bc2-a502-defce0f5e533" alt="Telegram User Management Bot" width="600">
+
+
+
 
 ## Descrição
 
